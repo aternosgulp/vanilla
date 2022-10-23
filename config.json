@@ -1,0 +1,9 @@
+{
+	"ip":"davahudisvanilla.aternos.me",
+	"port": 36468,
+	"name": "afkbotbypaul",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register afkbot123 afkbot123",
+	"login-cmd":"/login afkbot123"
+}
